@@ -11,8 +11,8 @@ import { skills } from '@/app/data/skills';
 
 export default function Skills() {
   return (
-    <section id="skills">
-      <Container className="pt-7">
+    <section id="skills" className="pt-22">
+      <Container>
         {/* Heading */}
         <FadeIn>
           <SectionHeading

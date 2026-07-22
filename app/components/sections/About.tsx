@@ -4,11 +4,10 @@ import Card from '../ui/Card';
 
 export default function About() {
   return (
-    <section id="about" className="py-28">
+    <section id="about" className="pt-22">
       <Container>
         <FadeIn>
           <p className="text-blue-500 font-medium">About.ts</p>
-
           <h2 className="mt-3 text-4xl md:text-5xl font-bold">
             My Journey Into Development
           </h2>

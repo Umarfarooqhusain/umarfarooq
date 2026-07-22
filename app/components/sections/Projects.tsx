@@ -14,8 +14,8 @@ import { projects } from '@/app/data/projects';
 
 export default function Projects() {
   return (
-    <section id="projects">
-      <Container className="pt-7">
+    <section id="projects" className="pt-22">
+      <Container>
         {/* Heading */}
         <FadeIn>
           <SectionHeading

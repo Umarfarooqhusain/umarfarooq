@@ -9,8 +9,8 @@ import { contacts } from '@/app/data/contacts';
 
 export default function Contact() {
   return (
-    <section id="contact">
-      <Container className="pt-7">
+    <section id="contact" className="pt-22">
+      <Container>
         <FadeIn delay={0.1}>
           <h2 className="mt-6 max-w-4xl text-4xl md:text-6xl font-bold">
             Let's build something
