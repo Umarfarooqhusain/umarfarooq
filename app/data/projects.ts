@@ -6,7 +6,7 @@ export const projects: Project[] = [
     description:
       'A real-time currency converter that fetches live exchange rates, supports multiple currencies, and provides a clean, responsive interface for quick and accurate conversions.',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Frankfurter API'],
-    image: '/images/FX-checker.png',
+    image: '/images/fX-checker.png',
     github: 'https://github.com/Umarfarooqhusain/foreign-exchange-app',
     live: 'https://foreign-exchange-app-ihyr.vercel.app/',
   },
